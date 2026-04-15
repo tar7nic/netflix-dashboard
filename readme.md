@@ -27,3 +27,9 @@ Developed an interactive Power BI dashboard to analyze Netflix content data, foc
 - Power BI
 - MySQL and Excel (Data Cleaning & Preprocessing)
 - Data Visualization
+
+## Dashboard Preview
+- Overview
+  ![Overview](images/Overview.png)
+- Insights
+  ![Dashboard](images/Dashboard.png)
